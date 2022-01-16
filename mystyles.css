@@ -1,0 +1,16 @@
+/* MY TEMPLATE */
+* {
+	/* Outline to view layout on screen while styling | Remove after styling */
+	/* outline: 1px dashed #ff0075; */
+	margin: 0;
+	padding: 0;
+}
+html {
+	box-sizing: border-box;
+	font-size: 100%;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
